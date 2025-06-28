@@ -3,44 +3,50 @@
 <p align="center">
   🎓 Estudante de Engenharia da Computação na UFRPE <br>
   🐍 Desenvolvedor Python | 🔬 Visão Computacional | ⚙️ Automação & Dados <br>
-  🌎 Baseado em Pernambuco - Brasil
+  🌎 Baseado em Pernambuco – Brasil
 </p>
 
 ---
 
 ### 🧠 Sobre mim
 
-- 💼 Estagiário na área de Engenharia de Computação (Grupo Moura)
+- 💼 Estagiário em Engenharia da Computação no Grupo Moura
 - 🔬 Pesquisador em IA no Voxar Labs – CIN/UFPE
-- 🧪 Apaixonado por ciência, inovação e soluções criativas
 - ✈️ Experiência internacional: Canadá 🇨🇦 e Portugal 🇵🇹
-- 🏅 Participação em olimpíadas científicas e projetos de extensão
+- 🧠 Participação em projetos de extensão, olimpíadas e publicações
+- 🚀 Interesse em ciência, robótica, IA e impacto social por meio da tecnologia
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Node-RED](https://img.shields.io/badge/-Node--RED-BE0000?style=flat)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Node-RED](https://img.shields.io/badge/Node--RED-BE0000?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jyrikes&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyrikes&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jyrikes&show_icons=true&theme=radical&hide=contribs&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyrikes&layout=compact&theme=radical" />
 </p>
 
 ---
 
-### 🔗 Links úteis
+### 🔗 Onde me encontrar
 
 <p align="center">
   <a href="https://github.com/jyrikes" target="_blank">
@@ -64,5 +70,5 @@
 
 ---
 
-> 💡 "Tecnologia é ferramenta. Inovação é atitude."  
-> – Jose Yrikes
+> 💡 *“Tecnologia é ferramenta. Inovação é atitude.”*  
+> — Jose Yrikes
