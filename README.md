@@ -9,6 +9,7 @@
 ---
 
 ### 🧠 Sobre mim
+https://jyrikes.github.io/profile/
 
 - 💼 Estagiário em Engenharia da Computação no Grupo Moura
 - 🔬 Pesquisador em IA no Voxar Labs – CIN/UFPE
